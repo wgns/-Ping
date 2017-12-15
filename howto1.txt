@@ -6,15 +6,15 @@
    << BACK
 
 
-              Arrow up     -  move spaceship up
+                   Arrow up     -  move spaceship up
 
-              Arrow down   -  move spacehip down
+                   Arrow down   -  move spacehip down
 
-              Arrow left   -  move spaceship left
+                   Arrow left   -  move spaceship left
 
-              Arrow right  -  move spaceship right
+                   Arrow right  -  move spaceship right
 
-              Space        -  shoot
+                   Space        -  shoot
 
                                                          __
                                                    _____/ /
